@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+root=`git rev-parse --show-toplevel`
+host="covode"
+path="~/sturcke.co/hcc-613/"
+
+rsync -avz -e ssh "$root/public/" $host:$path 
