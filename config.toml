@@ -1,3 +1,16 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl      = "https://sturcke.co/hcc-613/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title        = "HCC 613 &ndash; User Interface Prototyping and Development"
+theme        = "kaktus"
+
+[params]
+name        = "Erik J. Sturcke"
+description = "Describe your website"
+bio         = "Blogger - Programmer - Gopher"
+twitter     = "Your Twitter account"
+enableRSS   = true
+boutAuthor  = "I'm an enthusiastic gopher."
+
+[social]
+twitter  = "https://www.twitter.com/carbonbox"
+github   = "https://www.github.com/esturcke"
