@@ -4,4 +4,5 @@ root=`git rev-parse --show-toplevel`
 host="covode"
 path="~/sturcke.co/hcc-613/"
 
+hugo
 rsync -avz -e ssh "$root/public/" $host:$path 
