@@ -1,8 +1,7 @@
-{{ $iconStyle := .Site.Params.socialIconStyle }}
 <div id="social">
     {{ range $key, $val := .Site.Social }}
     <a class="symbol" href="{{$val}}">
-        {{ $iconStyle }}{{ if eq $key "twitter" }}twitterbird{{ else }}{{ $key }}{{ end }}
+        <i class="fa fa-2x fa-{{ $key }}"></i>
     </a>
     {{ end }}
 </div>
