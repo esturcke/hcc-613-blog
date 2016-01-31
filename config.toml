@@ -1,15 +1,15 @@
 baseurl      = "https://sturcke.co/hcc-613/"
 languageCode = "en-us"
-title        = "Erik J. Sturcke – HCC 613"
+title        = "Erik J. Sturcke · HCC 613"
 theme        = "kaktus"
 
 [params]
 name        = "Erik J. Sturcke"
-description = "Describe your website"
-bio         = "Blogger - Programmer - Gopher"
-twitter     = "Your Twitter account"
+title       = "User Interface Prototyping and Development"
+subtitle    = "UMBC · HCC 613 · Spring 2016"
+description = "UMBC class project blog of Erik J. Sturcke for HCC 613 – User Interface Prototyping and Development (Spring 2016)."
 enableRSS   = true
-boutAuthor  = "I'm an enthusiastic gopher."
+bio         = "Front end programmer and occasional student."
 
 [social]
 twitter  = "https://www.twitter.com/carbonbox"
