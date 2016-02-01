@@ -1,6 +1,6 @@
 baseurl      = "https://sturcke.co/hcc-613/"
 languageCode = "en-us"
-title        = "Erik J. Sturcke · HCC 613"
+title        = "Erik · HCC 613"
 theme        = "kaktus"
 
 [params]
