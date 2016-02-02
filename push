@@ -5,4 +5,5 @@ host="covode"
 path="~/sturcke.co/hcc-613/"
 
 hugo
+find public/ -name '*.html' -exec sh -c 'typeset-js {} | sponge {}' \;
 rsync -avz -e ssh "$root/public/" $host:$path 
