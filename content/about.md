@@ -5,4 +5,4 @@ title = "about"
 
 +++
 
-Hi, my name is Erik and I'm a front end programmer and occasional student. This is my student blog for HCC 613.
+Hi, my name is Erik and I'm a front end programmer at Cisco and occasional student at UMBC. This is my student blog for HCC 613.

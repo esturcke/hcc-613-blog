@@ -6,7 +6,7 @@ theme        = "kaktus"
 [params]
 name        = "Erik J. Sturcke"
 title       = "User Interface Prototyping and Development"
-subtitle    = "UMBC · HCC 613 · Spring 2016"
+subtitle    = "UMBC · HCC 613 · SPRING 2016"
 description = "UMBC class project blog of Erik J. Sturcke for HCC 613 – User Interface Prototyping and Development (Spring 2016)."
 enableRSS   = true
 bio         = "Front end programmer and occasional student."

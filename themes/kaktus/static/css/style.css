@@ -160,6 +160,10 @@ li	{ list-style-type:circle; list-style-position:inside; }
     font-size: 17px;
 }
 
+section {
+    font-feature-settings: "onum" 1;
+}
+
 b, strong { font-weight: 500;
   color: #1E2025; }
 em, i { font-style: italic; }
@@ -175,7 +179,9 @@ em, i { font-style: italic; }
 
 .description {
 	float: right;
-	font: italic 14px/1.4em Georgia,serif;
+	font-style: italic;
+    font-size: 14px;
+    line-height: 1.4em;
 	color: #aaa;
 }
 
@@ -189,7 +195,9 @@ em, i { font-style: italic; }
 }
 
 .home h2 {
-	font: italic 19px/1.3em Georgia,serif;
+	font-style: italic;
+    font-size: 14px;
+    line-height: 1.3em;
 	color: #bbb;
 }
 
