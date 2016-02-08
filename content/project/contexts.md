@@ -1,7 +1,7 @@
 +++
 date = "2016-02-03"
 description = "Three contexts of wearable technology in fiction."
-title = "contexts"
+title = "Contexts"
 +++
 
 ## Jacket from *Back to the Future Part II*
