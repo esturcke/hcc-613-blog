@@ -1,6 +1,6 @@
 +++
 title = "Improve v. Role-Playing Design"
-description = "Reflections on 2010 paper by Ben Medler and Brian Magerko"
+description = "Reflections on 2010 paper by Ben Medler and Brian Magerko."
 publishdate = "2016-02-10"
 date = "2016-02-10"
 +++
