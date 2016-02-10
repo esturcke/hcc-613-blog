@@ -12,14 +12,14 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 
 /* Spacing */
 .post h1, h3, h4, h5, p, .post-body ul, #post-list li, pre {
-margin-bottom: 20px;
+    margin: 1em 0;
 }
 
 /* Base */
 html, body { height: 100%; }
 
 body {
-	font:16px/1 "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font:16px/1.4 "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #666;
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;
@@ -109,7 +109,7 @@ nav.main-nav a.cta {
 #wrapper {
   max-width: 700px;
   margin: 0 auto;
-  padding: 60px 40px 100px 40px;
+  padding: 60px 30px 100px 30px;
 }
 
 #wrapper.home {
@@ -150,12 +150,14 @@ a,
 	transition: all 0.15s ease;
 }
 
-ul 	{ margin:0; padding:0; }
-li	{ list-style-type:circle; list-style-position:inside; }
+ul, ol  { margin: 0em 3em; padding:0; text-align: left; }
+ul > li	{ list-style-type:disc; }
+ol > li	{ list-style-type:decimal; }
+table ul, table ol { margin: 0 1em }
+
 
 /* Line Height */
 #post-body, p {
-    line-height:1.7;
     text-align: justify;
     font-size: 17px;
 }
@@ -641,6 +643,48 @@ h2.month {
 
 #social i {
     padding: 10px;
+}
+
+figure {
+    margin: 1em 0;
+}
+
+figcaption {
+    font-size: 0.8em;
+    display: block;
+}
+
+.refbox {
+    padding: 0.1em 1.5em;
+    background: #eee;
+}
+
+.refbox p {
+    font-size: 0.8em;
+    text-align: left;
+}
+
+.refbox a {
+    color: #333;
+    border-bottom: 1px dotted #aaa; 
+}
+
+.refbox a:hover {
+    color: #222;
+    border-bottom: 1px solid #999; 
+}
+
+.refbox .actions {
+    float: right;
+    position: relative;
+    right: -0.75em;
+    bottom: -0.75em;
+}
+
+.refbox .actions a {
+    border: none;
+    color: #777;
+    margin: 0 1px;
 }
 
 /* Media Queries */
