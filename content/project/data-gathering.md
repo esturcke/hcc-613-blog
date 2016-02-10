@@ -5,7 +5,7 @@ description = "Analysis of James Bond and his watches."
 title = "Data Gathering"
 +++
 
-{{% fig "watch-ad.jpg" %}}**Figure 1** Omega Seamaster magazine advert from ~~1987~~ 1997.{{% /fig %}}
+{{% fig "watch-ad.jpg" %}}**Figure 1** Omega Seamaster magazine advert circa ~~1987~~ 1997.{{% /fig %}}
 
 ## Overview
 
@@ -14,9 +14,11 @@ task and environmental analyses of using a few of his many watches. Unless
 otherwise noted, the observations come from *The Spy Who Loved Me*, *Goldeneye*
 and *Skyfall*. 
 
-Although James Bond seems to wear watching mainly for style, fitting his role
-as the gentleman, there are a number of times that he makes use of Q
-provisioned gadgets. Some of these can be found on Gear Patrol's
+James Bond seems to wear watching mainly for style, fitting his role
+as the gentleman. In *Skyfall* he used his watch once, and that was to check
+the time. Over the 23 Bond films, however, there are a number of times that he
+makes use of Q provisioned watch gadgets. Some of these can be found on Gear
+Patrol's
 [The Watches of James Bond](http://gearpatrol.com/2012/11/05/timekeeping-the-watches-of-james-bond/). More details on the specific models—although with less emphasis on the gadgets—are listed on Dell Deaton's [JamesBondWatches.com](http://jamesbondwatches.com/).
 
 ## User Analysis
