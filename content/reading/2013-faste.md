@@ -10,7 +10,7 @@ date = "2016-02-10"
 [Nir Rachmel](https://www.linkedin.com/in/nirrachmel),
 [Russell Essary](http://russellessary.com/), and
 [Evan Sheehan](http://evansheehan.com/).
-2013. Brainstorm, Chainstorm, Cheatstorm, Tweetstorm: New Ideation Strategies for Distributed HCI Design. *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems* CHI ’13: 1343–1352.
+2013. **Brainstorm, Chainstorm, Cheatstorm, Tweetstorm: New Ideation Strategies for Distributed HCI Design**. *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems* CHI ’13: 1343–1352.
 <span class=actions>
 <a href="http://www.haakonfaste.com/publications/CHI_2013_brainstorm_chainstorm.pdf" title="Download"><i class="fa fa-download"></i></a>
 <a href="https://vimeo.com/57853036" title="Video blurb"><i class="fa fa-vimeo"></i></a>
@@ -24,7 +24,7 @@ Classic brainstorming (brainstorming in groups) is a process for creative proble
 solving with roots in 1940s and 50s advertising. It was formally presented by
 Osborn in 1953 and since then has found widespread use while also facing
 criticism in academic studies. Compared to nominal brainstorming (brainstorming
-done alone), research has found problems do to:
+done alone), research has found problems due to:
 
   1. *Production blocking* – inefficiencies since only one person advances ideas at a time
   2. *Evaluation apprehension* – holding back because of what others may think
