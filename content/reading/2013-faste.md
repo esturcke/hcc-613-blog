@@ -12,9 +12,9 @@ date = "2016-02-10"
 [Evan Sheehan](http://evansheehan.com/).
 2013. Brainstorm, Chainstorm, Cheatstorm, Tweetstorm: New Ideation Strategies for Distributed HCI Design. *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems* CHI ’13: 1343–1352.
 <span class=actions>
-<a href="https://dl.acm.org/citation.cfm?id=2466177" title="ACM citation"><i class="fa fa-book"></i></a>
 <a href="http://www.haakonfaste.com/publications/CHI_2013_brainstorm_chainstorm.pdf" title="Download"><i class="fa fa-download"></i></a>
 <a href="https://vimeo.com/57853036" title="Video blurb"><i class="fa fa-vimeo"></i></a>
+<a href="https://dl.acm.org/citation.cfm?id=2466177" title="ACM citation"><i class="fa fa-book"></i></a>
 </span>
 {{% /refbox %}}
 
