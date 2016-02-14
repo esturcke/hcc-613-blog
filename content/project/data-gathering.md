@@ -14,7 +14,7 @@ task and environmental analyses of using a few of his many watches. Unless
 otherwise noted, the observations come from *The Spy Who Loved Me*, *Goldeneye*
 and *Skyfall*. 
 
-James Bond seems to wear watching mainly for style, fitting his role
+James Bond seems to wear watches mainly for style, fitting his role
 as the gentleman. In *Skyfall* he used his watch once, and that was to check
 the time. Over the 23 Bond films, however, there are a number of times that he
 makes use of Q provisioned watch gadgets. Some of these can be found on Gear
@@ -55,7 +55,7 @@ MI6 needs to notify Bond:
 
   1. There is an audible ticking as the message is output, alerting Bond of the incoming message.
   2. He glances over at the message coming out of the watch. 
-  3. It's unclear what he does with the message after reading it. Perhaps he tears the message off an discards it.
+  3. It's unclear what he does with the message after reading it. Perhaps he tears the message off and discards it.
 
 #### Environment
 
@@ -71,7 +71,7 @@ The Omega watch in *Goldeneye* has a laser that is emitted from the top of the w
 
 #### Task
 
-Bond is trapped in an armored tain car and needs to escape:
+Bond is trapped in an armored train car and needs to escape:
 
   1. Bond takes off his watch.
   2. It's not clear, but perhaps he presses something towards the bottom of the watch face to turn on the laser.

@@ -55,7 +55,7 @@ experiment. They compared 4 conditions:
 With both studies they found a certain amount of delight from participants,
 especially as they discovered unexpected connections while skipping the
 difficult step of generating ideas. In study 2, the plausibility of
-implementing the selections were evaluated. Not supprisingly, the less related
+implementing the selections were evaluated. Not surprisingly, the less related
 the pool of ideas were, the more contrived and less useful the final selections
 were. Still, the researches are hopeful that these are useful contributes to
 the area of ideation. 
