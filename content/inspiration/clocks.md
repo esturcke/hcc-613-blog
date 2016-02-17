@@ -24,7 +24,7 @@ done.
 {{% fig "writing-clock.jpg" %}}**Figure 2** Insane writing clock.{{% /fig %}}
 
 Then from awesome to totally insane I came across [a mechanical clock that
-actually write the time for each
+actually writes the time for each
 minute](http://www.ablogtowatch.com/suzuki-kango-plock-wooden-automaton-time-writing-clock/).
 The
 [video](https://twitter.com/BellTreeNursing/status/696232697824280577?ref_src=twsrc%5Etfw)

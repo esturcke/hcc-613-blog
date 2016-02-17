@@ -55,7 +55,7 @@ When the message came in, the watch vibrated. All other feedback was visual.
 
 ##### What task did the user perform?
 
-The user had to detonated a mine.
+The user had to detonate a mine.
 
 ##### How did they complete this task?
 
@@ -174,7 +174,7 @@ The following are ideas from a group brainstorming session:
 ### Message Receiving
 
   * Message is displayed on the watch face behind the watch hands.
-  * Message is displayed on the glass in from on the watch hands.
+  * Message is displayed on the glass in front of the watch hands.
   * Watch face flips up, revealing a screen under it.
   * A screen pops up from under the watch face.
   * Message projected from watch onto a surface.
@@ -237,7 +237,7 @@ Rolestorming is a hybrid between role playing and brainstorming. The idea is phy
 
 ### Group Brainstorming
 
-Group brainstorming is the classic form of brainstorming where people sit together and come up with ideas. The quantity of ideas is emphasised and so no vetting is done during brain storming. You just try to get it all out. With the group dynamic, there is the added benefit that you can spring board off of one another's ideas. The benefit is a rich pool to pick from. I found, however that it was easy to get stuck. However, it served as a good starting point for the final brainstorming activity. 
+Group brainstorming is the classic form of brainstorming where people sit together and come up with ideas. The quantity of ideas is emphasised and so no vetting is done during brainstorming. You just try to get it all out. With the group dynamic, there is the added benefit that you can spring board off of one another's ideas. The benefit is a rich pool to pick from. I found, however that it was easy to get stuck. However, it served as a good starting point for the final brainstorming activity. 
 
 ### Mind Map
 
@@ -247,6 +247,8 @@ Mind maps is a brain storming technique that places generated ideas in a tree st
 
 The mind map was significantly easier for me. I appreciate the structure and being able to maintain an overview. But perhaps equally it was easier because I had already gone through two other rounds of brainstorming and I already have many ideas that just needed to be organized. Acting out was the least comfortable for me, but helps see details I would otherwise miss. I would like to collapse the brainstorming with the mind map. Springboard off of other's ideas is helpful, but I think I generate more ideas with the structure of mind maps.
 
+Some other notes, audio feedback should be optional as to not give away his position and we have to consider single handed and hands free operation as well in case the hero is tied up.
+
 ### Evaluation Method
 
-Based on the data gathering, the screen must be visible both in low light and bright light such as a snowy mountain. An optionally lit e-ink display is well suited for this. The added benefit with this is low power draw. The primary interaction should be with physical buttons or dials as James Bond will usually be using these functions in high stress and time critical situations. Fiddling with a touch screen may be too frustrating. Physical buttons together with multi-modal feedback including vibrations and sounds, will help with eye free operation. The color displays inside the watch will give flexibility later if we need richer visual feedback, but they will not be primary. Above all, James Bond as the perfect gentleman cares about style. His watch needs to look classes and not like a gadget.
+Based on the data gathering, the screen must be visible both in low light and bright light such as a snowy mountain. An optionally lit e-ink display is well suited for this. The added benefit with this is low power draw. The primary interaction should be with physical buttons or dials as James Bond will usually be using these functions in high stress and time critical situations. Fiddling with a touch screen may be too frustrating. Physical buttons together with multi-modal feedback including vibrations and sounds, will help with eye free operation. The color displays inside the watch will give flexibility later if we need richer visual feedback, but they will not be primary. Above all, James Bond as the perfect gentleman cares about style. His watch needs to look classy and not like a gadget.
