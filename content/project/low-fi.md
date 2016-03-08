@@ -14,7 +14,8 @@ three tasks. I started with a task analysis for each:
 
 ### Reading a Message
 
-- 0.  in order to read an incoming message
+```
+0. in order to read an incoming message
     1. lift wrist
     2. read message
         2.1 read text message on watch face
@@ -27,10 +28,12 @@ three tasks. I started with a task analysis for each:
 Plan 0: When notification vibration 1 — 2 — 3 in order.  
 Plan 2: Do 2.1 and then 2.2 if needed for longer messages, 2.3 to read messages with rich media content  
 Plan 3: Do either 3.1 or 3.2.  
+```
 
 ### Explosives Detonation
 
-- 0. in order to detonate explosives
+```
+0. in order to detonate explosives
     1. place explosives
         1.2 attach explosives to surface
     2. pair mine with watch
@@ -44,6 +47,7 @@ Plan 3: Do either 3.1 or 3.2.
 Plan 0: Do 1 — 2 — 3 in order.  
 Plan 2: Do 2.1 — 2.2 in order.  
 Plan 3: Do 3.1 — 3.2 — 3.3 in order.  
+```
 
 ### The Prototypes
 
