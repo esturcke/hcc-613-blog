@@ -60,7 +60,7 @@ Moving from version 1 to version 2 I tried to improve the clarity of:
 
   - what can be done?
   - how it can be done?
-  - what was just do?
+  - what was just done?
 
 These are the weakest parts of my design based on the in-class evaluation.
 Originally, I was planning on using a black and white e-ink display on the

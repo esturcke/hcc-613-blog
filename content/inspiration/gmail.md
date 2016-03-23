@@ -7,7 +7,7 @@ publishdate = "2016-03-09"
 
 {{% fig "gmail.jpg" %}}**Figure 1** A blank New Message badger in Gmail, waiting to be written in.{{% /fig %}}
 
-Google's [foo.bar](https://foo.bar) hosts short engineering essays about work
+Google's [bar.foo](https://bar.foo) hosts short engineering essays about work
 they have done. I found an entry on [the compose window in
 Gmail](https://bar.foo/gmail.html) a nice contrast to the Hoekman reading from
 last week. This emphasis here was also how simplifying improve UX, but this was

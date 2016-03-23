@@ -10,7 +10,8 @@ publishdate = "2016-03-09"
 [Brad A. Myers](https://www.cs.cmu.edu/~bam/).
 1995. **Interactive sketching for the early stages of user interface design**. *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems* CHI ’95: 43–50.
 <span class=actions>
-<a href="http://www.sigchi.org/chi95/proceedings/papers/jal1bdy.htm" title="HTML Paper"><i class="fa fa-html"></i></a>
+<a href="https://www.youtube.com/watch?v=VLQcW6SpJ88" title="Video"><i class="fa fa-youtube"></i></a>
+<a href="http://www.sigchi.org/chi95/proceedings/papers/jal1bdy.htm" title="HTML Paper"><i class="fa fa-code"></i></a>
 <a href="https://dl.acm.org/citation.cfm?doid=223904.223910" title="ACM citation"><i class="fa fa-book"></i></a>
 </span>
 {{% /refbox %}}
