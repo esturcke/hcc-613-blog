@@ -10,7 +10,7 @@ publishdate = "2016-03-23"
 I'm trying to refine the clarity of how to perform the given tasks based on the
 in class evaluations. I believe this will be critical in high stress situations
 that Bond inevitably faces while having to use his gadgets for the first time.
-One part of that evaluation, however, that I'm resisting is the to make the
+One part of that evaluation, however, that I'm resisting is to make the
 watch a touch screen. For the third time users have tried to use the watch as
 if it had a touch screen. I still believe that in the end this will not be a
 good solution, although for people familiar with using other touch devices the
@@ -44,9 +44,9 @@ to use the buttons rather than tapping the screen.{{% /fig %}}
 
 ### Animated Watch Hands
 
-In class we discussed the possibility creating animations outside of the
+In class we discussed the possibility of creating animations outside of the
 prototyping tool. I found that Invisionapp supports animated GIFs and so I
-created simple watch hand animations in After Effects to demonstration the
+created simple watch hand animations in After Effects to demonstrate the
 transition from the standard watch face to the interactive mode and back.
 
 {{% fig "animated-hands.gif" %}}**Figure 2** Animated watch hands.{{% /fig %}}
@@ -66,15 +66,15 @@ Invisionapp turned out to be much more restrictive than Keynote. Each screen
 could only be made up of a single image and so there was much less reuse. I
 ended up using Keynote to create all the screens and then exporting to JPEGs in
 order to import into Invisionapp. Linking slides was very nice, however, and on
-par with Keynote. I think we were spoiled starting Keynote which turned out to
+par with Keynote. I think we were spoiled starting with Keynote which turned out to
 be surprisingly capable for use as a prototyping tool.  
 
 ## Where I Would Use It
 
-In short, I don't think I would use it as a prototyping tool. Perhaps the main
-benefit is not in creating prototypes, however, but sharing and commenting on
-prototypes. I didn't get to make use of any of these features, but there look
-to be tools to move prototypes between acceptance stages and collect feedback.
-Also, one classmate mentioned the ability to see prototypes on smart swatches.
-This could be useful, but I suspect this could be useful when prototyping touch
-interfaces, but not for the prototype I'm working on.
+In short, I don't think I would use Invisionapp as a prototyping tool. Perhaps
+the main benefit is not in creating prototypes, however, but sharing and
+commenting on prototypes. I didn't get to make use of any of these features,
+but there looks to be tools to move prototypes between acceptance stages and
+collect feedback.  Also, one classmate mentioned the ability to see prototypes
+on smart swatches.  This could be useful, but I suspect this could be useful
+when prototyping touch interfaces, but not for the prototype I'm working on.
