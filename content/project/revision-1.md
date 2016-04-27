@@ -13,12 +13,12 @@ overall impression was favorable although the first half of the video was seen
 as too detailed and there were a number of holes in the plot where the
 progression was hard to follow. For example, how did Bond get tied up on the
 train (which was also mistaken for a jail cell), and why was the detonation
-cancelled. I was interesting how much of the feedback was about the story. My
+cancelled. It was interesting how much of the feedback was about the story. My
 goal was to embed the prototype as seamlessly as possible so that it doesn't
 feel like a showcase or tutorial, but the plot holes in the story seem to be a
 distraction and the prototype is a bit too much in the background. The
 prototype itself got somewhat mixed responses. Some people caught on to a
-surprising amount of details of how the watch worked. Others either expressed
+surprising amount of detail of how the watch worked. Others either expressed
 some confusion over how he interacted with the watch or it was clear based on
 their responses that the prototype was vague on aspects of interaction.
 
@@ -39,4 +39,4 @@ Bond to abort giving a reason why he didn't detonate the explosives. This both
 demonstrates more watch interactions and hopefully makes the plot a bit easier
 to follow.
 
-
+{{% vimeo 164406186 %}}
