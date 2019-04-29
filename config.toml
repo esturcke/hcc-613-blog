@@ -1,4 +1,4 @@
-baseurl      = "https://sturcke.co/hcc-613/"
+baseurl      = "https://hcc-613.sturcke.dev"
 languageCode = "en-us"
 title        = "Erik · HCC 613"
 theme        = "kaktus"
